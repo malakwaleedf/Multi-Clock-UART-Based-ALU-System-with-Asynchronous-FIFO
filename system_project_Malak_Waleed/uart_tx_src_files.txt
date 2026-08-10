@@ -1,5 +1,0 @@
-uart_tx/mux.v
-uart_tx/parity_calc.v
-uart_tx/Serializer.v
-uart_tx/UART_TX.v
-uart_tx/uart_tx_fsm.v

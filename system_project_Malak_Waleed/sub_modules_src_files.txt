@@ -1,8 +1,0 @@
-sub_modules/ClkDiv.v
-sub_modules/CLKDIV_MUX.v
-sub_modules/CLK_GATE.v
-sub_modules/DATA_SYNC.v
-sub_modules/PULSE_GEN.v
-sub_modules/RegFile.v
-sub_modules/RST_SYNC.v
-

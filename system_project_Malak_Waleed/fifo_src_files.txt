@@ -1,5 +1,0 @@
-ASYNC_FIFO/DF_Sync.v
-ASYNC_FIFO/fifo_mem.v
-ASYNC_FIFO/fifo_rd.v
-ASYNC_FIFO/fifo_wr.v
-ASYNC_FIFO/Async_fifo.v
