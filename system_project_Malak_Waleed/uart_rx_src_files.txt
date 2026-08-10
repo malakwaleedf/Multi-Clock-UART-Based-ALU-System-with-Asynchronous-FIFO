@@ -1,0 +1,8 @@
+uart_rx/data_sampling.v
+uart_rx/deserializer.v
+uart_rx/edge_bit_counter.v
+uart_rx/par_chk.v
+uart_rx/stp_chk.v
+uart_rx/strt_chk.v
+uart_rx/UART_RX.v
+uart_rx/uart_rx_fsm.v
