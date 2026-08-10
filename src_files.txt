@@ -1,4 +1,0 @@
-sys_ctrl.v
-UART.v
-SYS_TOP.v
-sys_tb.v
